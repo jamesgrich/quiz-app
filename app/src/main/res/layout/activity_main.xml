@@ -227,7 +227,7 @@
             android:padding="@dimen/padding"
             android:text="@string/q5_header"
             android:textColor="@android:color/black"
-            android:textSize="@dimen/question_text"/>
+            android:textSize="@dimen/question_header"/>
 
         <TextView
             android:layout_width="match_parent"

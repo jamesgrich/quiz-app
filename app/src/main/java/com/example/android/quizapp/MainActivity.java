@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         RadioButton radioButton = (RadioButton) findViewById(buttonId);
         String answer = radioButton.getText().toString();
-        if (answer.equals("Montreal, Canada")) {
+        if (answer.equals("getString(R.q1_answer1)")) {
             points++;
         }
 
@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this, "You must select an answer for question 2", Toast.LENGTH_SHORT).show();
             return;
         }
-        if (answer2.equalsIgnoreCase("Stanley Cup")) {
+        if (answer2.equalsIgnoreCase("getString(R.q2_answer)")) {
             points++;
         }
 
@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         RadioButton radioButton2 = (RadioButton) findViewById(buttonId2);
         String answer4 = radioButton2.getText().toString();
 
-        if (answer4.equals("99")) {
+        if (answer4.equals("getString(R.q4_answer)")) {
             points++;
         }
 
@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
         RadioButton radioButton5 = (RadioButton) findViewById(buttonId3);
         String answer3 = radioButton5.getText().toString();
 
-        if (answer3.equals("11 feet")) {
+        if (answer3.equals("getString(R.q5_answer1)")) {
             points++;
         }
 
