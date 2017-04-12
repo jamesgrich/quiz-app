@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ice Hockey Quiz</string>
+    <string name="q1_header">Question 1</string>
+    <string name="q1_question">Where was the first indoor hockey rink made?</string>
+    <string name="q1_answer1">Montreal, Canada</string>
+    <string name="q1_answer2">New York, United States</string>
+    <string name="q1_answer3">Toronto, Canada</string>
+    <string name="q2_header">Question 2</string>
+    <string name="q2_question">What is the name of this championship trophy awarded annually to the National Hockey League playoff winner?</string>
+    <string name="q2_edit_text_hint">Answer</string>
+    <string name="q2_answer">Stanley Cup</string>
+    <string name="q3_header">Question 3</string>
+    <string name="q3_question">Which of these are actual NHL team names?</string>
+    <string name="q3_answer1">Chicago Blackhawks</string>
+    <string name="q3_answer2">New York Yankees</string>
+    <string name="q3_answer3">Toronto Maple Leafs</string>
+    <string name="q4_header">Question 4</string>
+    <string name="q4_question">What is the retired number of Wayne Gretsky?</string>
+    <string name="q4_answer1">99</string>
+    <string name="q4_answer2">77</string>
+    <string name="q4_answer3">55</string>
+    <string name="q5_header">Question 5</string>
+    <string name="q5_question">What is the distance from each goal line to the nearest blue line on a standard NHL hockey rink?</string>
+    <string name="q5_answer1">25 feet</string>
+    <string name="q5_answer2">64 feet</string>
+    <string name="q5_answer3">11 feet</string>
+    <string name="button_text">Reveal Score</string>\
+    <string name="entry_text">Welcome to the NHL hockey quiz app!\n\nDive in below!</string>
+    <string name="entry_button_text">Get Started</string>
+</resources>

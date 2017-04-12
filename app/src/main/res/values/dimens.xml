@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="view_height">2dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="entry_margin">30dp</dimen>
+    <dimen name="question_header">20sp</dimen>
+    <dimen name="question_text">17sp</dimen>
+    <dimen name="quiz_image_height">230dp</dimen>
+    <dimen name="entry_image_height">200dp</dimen>
+    <dimen name="entry_image_width">150dp</dimen>
+    <dimen name="entry_text_size">20dp</dimen>
+</resources>
